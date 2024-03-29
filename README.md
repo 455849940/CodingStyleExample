@@ -1,1 +1,1 @@
-# CodingStyleExample
+![image](CodingStyleExample.png)
